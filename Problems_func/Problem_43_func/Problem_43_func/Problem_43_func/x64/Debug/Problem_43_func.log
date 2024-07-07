@@ -1,0 +1,5 @@
+﻿  Problem_43_func.cpp
+C:\Users\Youssef\source\repos\Problem_43_func\Problem_43_func\Problem_43_func.cpp(17,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Youssef\source\repos\Problem_43_func\Problem_43_func\Problem_43_func.cpp(19,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Youssef\source\repos\Problem_43_func\Problem_43_func\Problem_43_func.cpp(21,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Problem_43_func.vcxproj -> C:\Users\Youssef\source\repos\Problem_43_func\Problem_43_func\x64\Debug\Problem_43_func.exe

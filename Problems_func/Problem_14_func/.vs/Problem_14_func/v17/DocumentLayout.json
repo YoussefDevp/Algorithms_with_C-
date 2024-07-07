@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Youssef\\source\\repos\\Problem_14_func\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4C251-036A-4DD6-ADB6-80260FCFA6A3}|Problem_14_func\\Problem_14_func.vcxproj|C:\\Users\\Youssef\\source\\repos\\Problem_14_func\\Problem_14_func\\Problem_14_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5E4C251-036A-4DD6-ADB6-80260FCFA6A3}|Problem_14_func\\Problem_14_func.vcxproj|solutionrelative:Problem_14_func\\Problem_14_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_14_func.cpp",
+              "DocumentMoniker": "C:\\Users\\Youssef\\source\\repos\\Problem_14_func\\Problem_14_func\\Problem_14_func.cpp",
+              "RelativeDocumentMoniker": "Problem_14_func\\Problem_14_func.cpp",
+              "ToolTip": "C:\\Users\\Youssef\\source\\repos\\Problem_14_func\\Problem_14_func\\Problem_14_func.cpp",
+              "RelativeToolTip": "Problem_14_func\\Problem_14_func.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T00:16:40.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

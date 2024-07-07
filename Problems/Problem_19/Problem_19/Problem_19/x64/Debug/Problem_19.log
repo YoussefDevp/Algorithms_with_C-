@@ -1,0 +1,3 @@
+﻿  Problem_19.cpp
+C:\Users\Youssef\source\repos\Problem_19\Problem_19\Problem_19.cpp(6,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Problem_19.vcxproj -> C:\Users\Youssef\source\repos\Problem_19\Problem_19\x64\Debug\Problem_19.exe

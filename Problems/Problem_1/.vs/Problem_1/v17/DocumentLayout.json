@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Youssef\\source\\repos\\Problem_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7866EEA0-C57A-4714-9E7E-4B020693A71E}|Problem_1\\Problem_1.vcxproj|C:\\Users\\Youssef\\source\\repos\\Problem_1\\Problem_1\\Problem_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7866EEA0-C57A-4714-9E7E-4B020693A71E}|Problem_1\\Problem_1.vcxproj|solutionrelative:Problem_1\\Problem_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Youssef\\source\\repos\\Problem_1\\Problem_1\\Problem_1.cpp",
+              "RelativeDocumentMoniker": "Problem_1\\Problem_1.cpp",
+              "ToolTip": "C:\\Users\\Youssef\\source\\repos\\Problem_1\\Problem_1\\Problem_1.cpp",
+              "RelativeToolTip": "Problem_1\\Problem_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T23:58:30.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

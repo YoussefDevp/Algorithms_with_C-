@@ -1,0 +1,3 @@
+﻿  Problem_21_func.cpp
+C:\Users\Youssef\source\repos\Problem_21_func\Problem_21_func\Problem_21_func.cpp(7,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Problem_21_func.vcxproj -> C:\Users\Youssef\source\repos\Problem_21_func\Problem_21_func\x64\Debug\Problem_21_func.exe

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Youssef\\source\\repos\\Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119C533E-AA58-4C0E-8503-6578937C92CF}|Structures\\Structures.vcxproj|C:\\Users\\Youssef\\source\\repos\\Structures\\Structures\\Structures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{119C533E-AA58-4C0E-8503-6578937C92CF}|Structures\\Structures.vcxproj|solutionrelative:Structures\\Structures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Structures.cpp",
+              "DocumentMoniker": "C:\\Users\\Youssef\\source\\repos\\Structures\\Structures\\Structures.cpp",
+              "RelativeDocumentMoniker": "Structures\\Structures.cpp",
+              "ToolTip": "C:\\Users\\Youssef\\source\\repos\\Structures\\Structures\\Structures.cpp",
+              "RelativeToolTip": "Structures\\Structures.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T22:29:20.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

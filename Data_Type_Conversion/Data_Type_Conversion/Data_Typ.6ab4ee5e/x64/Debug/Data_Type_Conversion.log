@@ -1,0 +1,3 @@
+﻿  Data_Type_Conversion.cpp
+C:\Users\Youssef\source\repos\Data_Type_Conversion\Data_Type_Conversion\Data_Type_Conversion.cpp(12,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Data_Type_Conversion.vcxproj -> C:\Users\Youssef\source\repos\Data_Type_Conversion\Data_Type_Conversion\x64\Debug\Data_Type_Conversion.exe

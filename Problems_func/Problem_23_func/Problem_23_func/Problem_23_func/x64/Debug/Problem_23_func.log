@@ -1,0 +1,4 @@
+﻿  Problem_23_func.cpp
+C:\Users\Youssef\source\repos\Problem_23_func\Problem_23_func\Problem_23_func.cpp(9,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\Problem_23_func\Problem_23_func\Problem_23_func.cpp(18,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Problem_23_func.vcxproj -> C:\Users\Youssef\source\repos\Problem_23_func\Problem_23_func\x64\Debug\Problem_23_func.exe

@@ -1,0 +1,3 @@
+﻿  Problem_40.cpp
+C:\Users\Youssef\source\repos\Problem_40\Problem_40\Problem_40.cpp(13,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Problem_40.vcxproj -> C:\Users\Youssef\source\repos\Problem_40\x64\Debug\Problem_40.exe

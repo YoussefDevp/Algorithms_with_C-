@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Youssef\\source\\repos\\Data_Type_Conversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB4EE5E-00B7-434F-8E5A-4860905350DE}|Data_Type_Conversion\\Data_Type_Conversion.vcxproj|C:\\Users\\Youssef\\source\\repos\\Data_Type_Conversion\\Data_Type_Conversion\\Data_Type_Conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AB4EE5E-00B7-434F-8E5A-4860905350DE}|Data_Type_Conversion\\Data_Type_Conversion.vcxproj|solutionrelative:Data_Type_Conversion\\Data_Type_Conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data_Type_Conversion.cpp",
+              "DocumentMoniker": "C:\\Users\\Youssef\\source\\repos\\Data_Type_Conversion\\Data_Type_Conversion\\Data_Type_Conversion.cpp",
+              "RelativeDocumentMoniker": "Data_Type_Conversion\\Data_Type_Conversion.cpp",
+              "ToolTip": "C:\\Users\\Youssef\\source\\repos\\Data_Type_Conversion\\Data_Type_Conversion\\Data_Type_Conversion.cpp",
+              "RelativeToolTip": "Data_Type_Conversion\\Data_Type_Conversion.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T18:14:36.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

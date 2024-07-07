@@ -1,0 +1,3 @@
+﻿  Problem_35.cpp
+C:\Users\Youssef\source\repos\Problem_35\Problem_35\Problem_35.cpp(27,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Problem_35.vcxproj -> C:\Users\Youssef\source\repos\Problem_35\Problem_35\x64\Debug\Problem_35.exe
